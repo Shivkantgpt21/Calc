@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#a10131</color>
+    <color name="colorPrimaryDark">#870029</color>
+    <color name="colorAccent">#d10241</color>
+    <color name="background_color">#fefff6f9</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="overlay_color">#1f8b002a</color>
+    <color name="dim_color">#49460116</color>
+    <color name="tab_indicator">#F4E89D</color>
+    <color name="txt_color">#25000b</color>
+
+    <color name="btn_c_color">#fd151d</color>
+    <color name="btn_side_color">#03a8ac</color>
+    <color name="btn_revert_color">@color/tab_indicator</color>
+
+</resources>

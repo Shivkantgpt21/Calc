@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Calculator</string>
+
+    <string name="initialising">Initialising...</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="gst_india">GST India</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="history">HISTORY</string>
+    <string name="cgst">CGST</string>
+    <string name="sgst">SGST</string>
+    <string name="gst">GST</string>
+    <string name="total">Total</string>
+    <string name="basic_calc">Basic Calculater</string>
+    <string name="advanced_calc">Advanced Calculater</string>
+    <string name="divide_sign">÷</string>
+    <string name="minus_sign">−</string>
+    <!-- test <string name="add_unitid">ca-app-pub-3940256099942544/6300978111</string>-->
+    <string name="add_unitid">ca-app-pub-6260258483477542/9633533471</string>
+    <!-- test <string name="add_native_unitid">ca-app-pub-3940256099942544/2793859312</string>-->
+    <string name="add_native_unitid">ca-app-pub-3940256099942544/2793859312</string>
+
+</resources>

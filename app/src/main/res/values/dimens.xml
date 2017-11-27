@@ -1,0 +1,23 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="nav_header_vertical_spacing">16dp</dimen>
+    <dimen name="nav_header_height">160dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <dimen name="round_padding">7dp</dimen>
+    <dimen name="s_padding">3dp</dimen>
+    <dimen name="calc_margin">0.5dp</dimen>
+
+    <!-- for size like width,height -->
+    <dimen name="actionbar_size">50dp</dimen>
+    <dimen name="calc_btn_size">46dp</dimen>
+    <dimen name="calc_btn_radious">0dp</dimen>
+    <!-- for text size-->
+    <dimen name="l_textSize">20sp</dimen>
+    <dimen name="text_size">16sp</dimen>
+    <dimen name="btn_calc_txt_size">23sp</dimen>
+    <dimen name="result_txt_size">32sp</dimen>
+
+</resources>

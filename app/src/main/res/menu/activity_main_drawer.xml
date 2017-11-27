@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@mipmap/home"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_report"
+            android:icon="@mipmap/home"
+            android:title="Report"
+            android:visible="false"/>
+        <item
+            android:id="@+id/nav_what_is_gst"
+            android:icon="@mipmap/question"
+            android:title="What is Gst" />
+        <item
+        android:id="@+id/nav_gst_structure"
+        android:icon="@mipmap/structure"
+        android:title="Gst Structure" />
+
+        <item
+            android:id="@+id/nav_gst_rates"
+            android:icon="@mipmap/rates"
+            android:title="Gst Rates" />
+
+        <item
+            android:id="@+id/nav_imp_links"
+            android:icon="@mipmap/links"
+            android:title="Important Links" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_rat_us"
+                android:icon="@mipmap/rateus"
+                android:title="Rate Us" />
+
+            <item
+                android:id="@+id/nav_contact_us"
+                android:icon="@mipmap/contactus"
+                android:title="Contact Us" />
+        </menu>
+    </item>
+
+</menu>
